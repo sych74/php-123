@@ -1,4 +1,4 @@
 <?php
-# version12345fghzxc
+# version12345fgh
 phpinfo();
 ?>
