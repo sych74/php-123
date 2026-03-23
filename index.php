@@ -1,4 +1,4 @@
 <?php
-# test4zasdq
+# test4zas
 phpinfo();
 ?>
